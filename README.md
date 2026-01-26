@@ -26,7 +26,8 @@
 
 📢 **Speaking & Content Creation**
 - Actively sharing knowledge and experiences in software engineering.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsayed-690148195) 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsayed-690148195)
+- Find [Portfolio](https://engmostafasoliman.github.io/Portfolio/)
 
 ---
 
