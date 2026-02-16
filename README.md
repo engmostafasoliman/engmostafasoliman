@@ -4,7 +4,7 @@
 
  **👋 Hi, I'm Mostafa Soliman**
 
-**Software Engineer & Flutter Developer**
+**Software Engineer & Flutter Developer at Al Manara Holding Group **
 
 ---
 
