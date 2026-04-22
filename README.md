@@ -63,10 +63,13 @@
 - Explore my projects on [GitHub - Secondary Account](https://github.com/mostafaelsayed2262001)
 
 **Recent Flutter Projects:**
+- **Easy Touch EV Charger** - Flutter App with Clean Architecture MVVM For Charging Cars
+- **Barber Booking App** - Flutter app with Clean Architecture MVC For Booking Online 
+- **Doctor App** - Flutter healthcare application  with Clean Architecture MVC
+- **Food System** - Flutter food delivery system with Clean Architecture MVC
+- **Invii Rent Car** - Flutter Rent Car system with Architecture MVVM For Renting Cars
+- **Quarak App** - Flutter app with Clean Architecture
 - **FocusGuard** - Flutter app with Clean Architecture
-- **Doctor App** - Flutter healthcare application
-- **EV Charger** - Flutter mobile application
-- **Food System** - Flutter food delivery system
 
 **Web Projects:**
 - **FGC Website** - Next.js, TypeScript
