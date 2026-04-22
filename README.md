@@ -87,4 +87,4 @@
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/engmostafasoliman)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mostafa-elsayed-690148195)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engmostafasoliman.github.io/Portfolio/)
+[![Portfolio](https://skillicons.dev/icons?i=devto)](https://engmostafasoliman.github.io/Portfolio/)
