@@ -62,7 +62,7 @@
 - Explore my projects on [GitHub - Secondary Account](https://github.com/mostafaelsayed2262001)
 
 **Recent Flutter Projects:**
-- **Easy Touch EV Charger** - Flutter App with Clean Architecture MVVM For Charging Cars [Play Store](https://play.google.com/store/apps/details?id=com.easytouch.app) (App Store){https://apps.apple.com/iq/app/easy-touch/id6754902919}
+- **Easy Touch EV Charger** - Flutter App with Clean Architecture MVVM For Charging Cars [Play Store](https://play.google.com/store/apps/details?id=com.easytouch.app) [App Store](https://apps.apple.com/iq/app/easy-touch/id6754902919)
 - **Barber Booking App** - Flutter app with Clean Architecture MVC For Booking Online 
 - **Doctor App** - Flutter healthcare application  with Clean Architecture MVC
 - **Food System** - Flutter food delivery system with Clean Architecture MVC
