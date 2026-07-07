@@ -66,7 +66,6 @@
 - **Easy Touch EV Charger** - Flutter App with Clean Architecture MVVM For Charging Cars [Play Store](https://play.google.com/store/apps/details?id=com.easytouch.app) [App Store](https://apps.apple.com/iq/app/easy-touch/id6754902919)
 - **Barber Booking App** - Flutter app with Clean Architecture MVC For Booking Online [Freelance]
 - **Doctor App** - Flutter healthcare application  with Clean Architecture MVVM [Repo](https://github.com/engmostafasoliman/doctor_app)
-- **Food System** - Flutter food delivery system with Clean Architecture MVC [Freelance]
 - **Invii Rent Car** - Flutter Rent Car system with Architecture MVVM For Renting Cars [Play Store](https://play.google.com/store/apps/details?id=com.Innvii.rent) [App Store](https://apps.apple.com/us/app/innvii-rent-a-car/id6444955419)
 - **Quarak App** - Flutter app with Clean Architecture[Play Store](https://play.google.com/store/apps/details?id=com.qrapp.qrapp&hl=en)
 - **FocusGuard** - Flutter app with Clean Architecture MVVM [GitHub Repository](https://github.com/engmostafasoliman/FocusGuard)
