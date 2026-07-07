@@ -59,7 +59,6 @@
 
 📦 **Notable Projects & Packages**
 - Explore my projects on [GitHub - Main Account](https://github.com/engmostafasoliman)
-- Explore my projects on [GitHub - Secondary Account](https://github.com/mostafaelsayed2262001)
 
 **Recent Flutter Projects:**
 - **GitMind** - Flutter App with Clean Architecture MVVM - CI/CD - Analytics Dashboard For analysing GitHub Reops [GitHub Repository](https://github.com/engmostafasoliman/GitMind)
@@ -71,8 +70,10 @@
 - **FocusGuard** - Flutter app with Clean Architecture MVVM [GitHub Repository](https://github.com/engmostafasoliman/FocusGuard)
 
 **Web Projects:**
-- **FGC Website** - Next.js, TypeScript
-- **Western Beach** - Next.js, TypeScript
+- **FGC Website** - Next.js, TypeScript [Website](https://futuregulf.ae/en/)
+- **Western Beach** - Next.js, TypeScript [Website](https://westernbeach.ae/en/)
+- **DYF** - Next.js, TypeScript [Website](https://dyfmotors.ae/)
+- **commercialoxforduae** - Next.js, TypeScript [Website](https://commercialoxforduae.ae/)
 
 ---
 
