@@ -10,7 +10,7 @@
 🚀 **About Me**
 - Computer Science Graduate with expertise in mobile development.
 - **Flutter Developer** passionate about building high-quality, scalable applications.
-- Web Development enthusiast with React and Next.js experience (coding with vibes 🎨).
+- Web Development enthusiast with React and Next.js experience (coding with AI Engineer 🎨).
 - Dedicated to Clean Code, Clean Architecture, and SOLID principles for robust software engineering.
 - Highly motivated, fast learner, with a passion for continuous improvement.
 
@@ -79,8 +79,8 @@
 
 📚 **Learning & Growth**
 - Continuously expanding expertise in Flutter development and modern mobile best practices.
-- Exploring advanced state management patterns and Firebase integrations.
-- Passionate about staying updated with the latest development trends and methodologies.
+- Exploring advanced state management patterns.
+- learning Node.js with Maximilian Schwarzmüller.
 
 ---
 
