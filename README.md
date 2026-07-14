@@ -80,7 +80,8 @@
 📚 **Learning & Growth**
 - Continuously expanding expertise in Flutter development and modern mobile best practices.
 - Exploring advanced state management patterns.
-- learning Node.js with Maximilian Schwarzmüller.
+- Learning Node.js with Maximilian Schwarzmüller.
+- Learning the German language
 
 ---
 
