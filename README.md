@@ -13,6 +13,7 @@
 - Web Development enthusiast with React and Next.js experience (coding with AI Engineer 🎨).
 - Dedicated to Clean Code, Clean Architecture, and SOLID principles for robust software engineering.
 - Highly motivated, fast learner, with a passion for continuous improvement.
+- Learning (Node.js - Deutsch language).  
 
 🎯 **Career Objectives**
 - Seeking opportunities as a Senior Flutter Developer with proven expertise in mobile development.
