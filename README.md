@@ -47,6 +47,7 @@
 
 📢 **Speaking & Content Creation**
 - Actively sharing knowledge and experiences in software engineering.
+- Explore my [Leet Code](https://leetcode.com/u/9hMxyI6Xhy/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsayed-690148195)
 - Explore my [Portfolio](https://engmostafasoliman.github.io/Portfolio/)
 
