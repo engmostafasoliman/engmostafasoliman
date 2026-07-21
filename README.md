@@ -75,6 +75,7 @@
 - **Western Beach** - Next.js, TypeScript [Website](https://westernbeach.ae/en/)
 - **DYF** - Next.js, TypeScript [Website](https://dyfmotors.ae/)
 - **commercialoxforduae** - Next.js, TypeScript [Website](https://commercialoxforduae.ae/)
+- **Easy Touch** - Next.js, TypeScript [Website](https://easytouchuae.ae/en/)
 
 ---
 
