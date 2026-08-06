@@ -60,7 +60,7 @@
 ---
 
 📦 **Notable Projects & Packages**
-- Explore my projects on [GitHub - Main Account](https://github.com/engmostafasoliman)
+- Explore my projects on [GitHub - Main Account](https://github.com/engmostafasoliman?tab=repositories)
 
 **Recent Flutter Projects:**
 - **GitMind** - Flutter App with Clean Architecture MVVM - CI/CD - Analytics Dashboard For analysing GitHub Reops [GitHub Repository](https://github.com/engmostafasoliman/GitMind)
