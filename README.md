@@ -29,7 +29,7 @@
 💻 **Technical Stack**
 
 **Core Expertise (Mobile Development):**
-- Flutter, Dart, Firebase, Hive, SQLite, State Management (Provider, GetX, Bloc)
+- Flutter, Dart, Firebase, Hive, SQLite, State Management (Provider, GetX, Bloc), Payment, 
 
 **Web Development (Vibes):**
 - React, Next.js, TypeScript, JavaScript, HTML5, CSS3
@@ -38,7 +38,7 @@
 - Node.js, JavaScript/TypeScript
 
 **Tools & Design:**
-- Git, Linux, Postman, Figma, Adobe XD, Photoshop
+- Git, Mac OS, Postman, Figma, Claude Design, Claude Code, Adobe XD, 
 
 **Principles & Methodologies:**
 - Clean Code, SOLID, Clean Architecture, CI/CD, Agile methodologies
