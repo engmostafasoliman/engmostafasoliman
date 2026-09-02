@@ -77,6 +77,7 @@
 - **DYF** - Next.js, TypeScript [Website](https://dyfmotors.ae/)
 - **commercialoxforduae** - Next.js, TypeScript [Website](https://commercialoxforduae.ae/)
 - **Easy Touch** - Next.js, TypeScript [Website](https://easytouchuae.ae/en/)
+- **Diamond Sword** - Next.js, TypeScript [Website](https://diamondsword.ae/)
 
 ---
 
