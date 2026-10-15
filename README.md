@@ -63,6 +63,7 @@
 - Explore my projects on [GitHub - Main Account](https://github.com/engmostafasoliman?tab=repositories)
 
 **Recent Flutter Projects:**
+- **Tohfit Alatfal** - Flutter App with Clean Architecture MVVM Fore learning tajweed [Play Store](https://play.google.com/store/apps/details?id=com.gitmind.tohfiti)
 - **GitMind** - Flutter App with Clean Architecture MVVM - CI/CD - Analytics Dashboard For analysing GitHub Reops [GitHub Repository](https://github.com/engmostafasoliman/GitMind)
 - **Easy Touch EV Charger** - Flutter App with Clean Architecture MVVM For Charging Cars [Play Store](https://play.google.com/store/apps/details?id=com.easytouch.app) [App Store](https://apps.apple.com/iq/app/easy-touch/id6754902919)
 - **Barber Booking App** - Flutter app with Clean Architecture MVC For Booking Online [Freelance]
