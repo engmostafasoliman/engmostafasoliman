@@ -73,6 +73,7 @@
 - **FocusGuard** - Flutter app with Clean Architecture MVVM [GitHub Repository](https://github.com/engmostafasoliman/FocusGuard)
 
 **Web Projects:**
+- **AL manara Holding** - Next.js, TypeScript [Website](https://almanaraholding.ae/en/)
 - **Diamond Sword** - Next.js, TypeScript [Website](https://diamondsword.ae/)
 - **Easy Touch** - Next.js, TypeScript [Website](https://easytouchuae.ae/en/)
 - **FGC Website** - Next.js, TypeScript [Website](https://futuregulf.ae/en/)
